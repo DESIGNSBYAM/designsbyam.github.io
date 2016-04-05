@@ -9,7 +9,7 @@
 title: Portfolio of DESIGNSBY.AM
 email: HI@DESIGNSBY.AM
 description: > # this means to ignore newlines until "baseurl:"
-  DESIGNSBY.AM is the home of a web developer and UX designer located in the U.S. He has extensive experience in graphic art design and video/audio production as well as user experience design.
+  This is a portfolio of DESIGNSBY.AM, a web developer and UX designer located in the U.S.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: DESIGNS_BY_AM
