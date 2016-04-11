@@ -130,9 +130,10 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    border: 1px solid $darkbg-border-color;
     border-radius: 3px;
-    background-color: #eef;
+    color: $darkbg-text-color;
+    background-color: $darkbg-background-color;
 }
 
 code {
@@ -200,7 +201,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $footer-text-color;
         }
     }
 }

@@ -65,7 +65,7 @@
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
+                    fill: $footer-text-color;
                 }
             }
         }
@@ -107,21 +107,25 @@
     width:100%;
     margin: 25px 0 0 0;
     list-style-type: none;
-    font-weight: 500;
-    font-size: 14pt;
-    line-height: 2em;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 40px;
       li{
         width:100%;
         color:#fff;
         a{
+            display: block;
+            width:100%;
             color:#fff;
             &:hover {
+                font-weight: 200;
                 text-decoration: none;
             }
         }
         &:hover {
-            color: #328A72;
+            color: #184238;
             background-color:#fff;
+            border-right: 5px solid #184238;
             a {
             color: #328A72;
             }
@@ -137,8 +141,12 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    background-color: $footer-background-color;
+    color: $footer-text-color;
     padding: $spacing-unit 0;
+    a {
+        color: #1d4f42;
+    }
 }
 
 .footer-heading {
@@ -154,7 +162,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $footer-text-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
