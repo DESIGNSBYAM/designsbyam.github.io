@@ -92,6 +92,45 @@
     }
 }
 
+.menu-column {
+  background: url('../images/menu-bg.jpg') repeat-y;
+  width:250px;
+  text-align: center;
+  position:fixed;
+  top:0;
+  left:0;
+  height:100vh;
+  color:#fff;
+  padding:25px 0;
+  box-shadow: 2px 0 4px 2px rgba(0,0,0,.15);
+  ul{
+    width:100%;
+    margin: 25px 0 0 0;
+    list-style-type: none;
+    font-weight: 500;
+    font-size: 14pt;
+    line-height: 2em;
+      li{
+        width:100%;
+        color:#fff;
+        a{
+            color:#fff;
+            &:hover {
+                text-decoration: none;
+            }
+        }
+        &:hover {
+            color: #328A72;
+            background-color:#fff;
+            a {
+            color: #328A72;
+            }
+        }
+
+      }
+  }
+}
+
 
 
 /**
