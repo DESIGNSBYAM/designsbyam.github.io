@@ -14,6 +14,7 @@ body {
   font: 400 16px/1.5 "Lato", Helvetica, Arial, sans-serif;
   color: #111;
   background-color: #c3c3c3;
+  background: url("../images/bg.jpg");
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
