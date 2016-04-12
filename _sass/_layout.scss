@@ -118,7 +118,7 @@
             width:100%;
             color:#fff;
             &:hover {
-                font-weight: 200;
+                font-weight: 300;
                 text-decoration: none;
             }
         }
@@ -145,7 +145,7 @@
     color: $footer-text-color;
     padding: $spacing-unit 0;
     a {
-        color: #1d4f42;
+        color: $footer-text-color;
     }
 }
 

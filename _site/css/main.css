@@ -93,10 +93,10 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #338770;
+  border: 1px solid #695578;
   border-radius: 3px;
-  color: #b1c3c3;
-  background-color: #003c2e; }
+  color: #c1bac2;
+  background-color: #251e37; }
 
 code {
   padding: 1px 5px; }
@@ -235,7 +235,7 @@ pre {
         width: 100%;
         color: #fff; }
         .menu-column ul li a:hover {
-          font-weight: 200;
+          font-weight: 300;
           text-decoration: none; }
       .menu-column ul li:hover {
         color: #184238;
@@ -252,7 +252,7 @@ pre {
   color: #fff;
   padding: 30px 0; }
   .site-footer a {
-    color: #1d4f42; }
+    color: #fff; }
 
 .footer-heading {
   font-size: 18px;
