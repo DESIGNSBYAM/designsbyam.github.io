@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 May 2016 16:23:53 -0500</pubDate>
-    <lastBuildDate>Tue, 10 May 2016 16:23:53 -0500</lastBuildDate>
+    <pubDate>Tue, 10 May 2016 16:38:34 -0500</pubDate>
+    <lastBuildDate>Tue, 10 May 2016 16:38:34 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -22,7 +22,7 @@
 
 &lt;p&gt;There could also be options of voting on polls when you donate $1.00 or more; or also being able to pick a sound that plays with the donation alert pops up. Speaking of donation alerts, this system allows full customization to the alerts as well. With the current systems out there like Twitch Alerts, you’re only able to do so much. But now, I can do things like the following mock up:&lt;/p&gt;
 
-&lt;p&gt;[&lt;img src=&quot;http://img.youtube.com/vi/YDhTt3W0QRk/0.jpg&quot; alt=&quot;IMAGE ALT TEXT&quot; /&gt;](http://www.youtube.com/watch?v=YDhTt3W0QRk”M60 Donation Mockup Animation “)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=YDhTt3W0QRk&quot;&gt;&lt;img src=&quot;/assets/m60adam-donation-anim-mockup.png&quot; alt=&quot;Click for video&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I will begin working on this system, mostly from scratch utilizing the &lt;a href=&quot;https://github.com/justintv/Twitch-API&quot;&gt;Twitch REST API&lt;/a&gt; and the &lt;a href=&quot;https://developer.paypal.com/docs/api/&quot;&gt;Paypal REST API&lt;/a&gt; as well as utilizing CSS, MySQL, HTML, PHP, and jQuery to animate the alerts. Is this an easy task for me? Not nessarily but I can take baby steps to get to a full featured dashboard for my clients.&lt;/p&gt;
 

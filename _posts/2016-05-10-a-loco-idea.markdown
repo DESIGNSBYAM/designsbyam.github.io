@@ -14,7 +14,7 @@ From this point forward I will be working on a premium service for Twitch and Yo
 
 There could also be options of voting on polls when you donate $1.00 or more; or also being able to pick a sound that plays with the donation alert pops up. Speaking of donation alerts, this system allows full customization to the alerts as well. With the current systems out there like Twitch Alerts, you're only able to do so much. But now, I can do things like the following mock up:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YDhTt3W0QRk/0.jpg)](http://www.youtube.com/watch?v=YDhTt3W0QRk"M60 Donation Mockup Animation ")
+[![Click for video]({{ site.url }}/assets/m60adam-donation-anim-mockup.png)](http://www.youtube.com/watch?v=YDhTt3W0QRk)
 
 I will begin working on this system, mostly from scratch utilizing the [Twitch REST API][twitch-api] and the [Paypal REST API][paypal-api] as well as utilizing CSS, MySQL, HTML, PHP, and jQuery to animate the alerts. Is this an easy task for me? Not nessarily but I can take baby steps to get to a full featured dashboard for my clients.
 
