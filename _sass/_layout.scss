@@ -133,7 +133,12 @@
 
       }
   }
+    @include media-query($on-palm) {
+        display: none;
+    }
 }
+
+
 
 
 
@@ -215,7 +220,10 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit 0 $spacing-unit 250px;
+    @include media-query($on-palm) {
+        padding: $spacing-unit 0;
+    }
 }
 
 .page-heading {
@@ -286,4 +294,5 @@
             font-size: 18px;
         }
     }
+
 }

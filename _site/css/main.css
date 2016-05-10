@@ -246,6 +246,9 @@ iframe {
         border-right: 5px solid #184238; }
         .menu-column ul li:hover a {
           color: #328A72; }
+  @media screen and (max-width: 600px) {
+    .menu-column {
+      display: none; } }
 
 /**
  * Site footer
@@ -306,7 +309,10 @@ iframe {
  * Page content
  */
 .page-content {
-  padding: 30px 0; }
+  padding: 30px 0 30px 250px; }
+  @media screen and (max-width: 600px) {
+    .page-content {
+      padding: 30px 0; } }
 
 .page-heading {
   font-size: 20px; }
