@@ -18,7 +18,7 @@ There could also be options of voting on polls when you donate $1.00 or more; or
 
 I will begin working on this system, mostly from scratch utilizing the [Twitch REST API][twitch-api] and the [Paypal REST API][paypal-api] as well as utilizing CSS, MySQL, HTML, PHP, and jQuery to animate the alerts. Is this an easy task for me? Not nessarily but I can take baby steps to get to a full featured dashboard for my clients.
 
-**If you are interested in these features, please be patient and look for an announcement in this coming months.**
+**If you are interested in these features, please be patient and look for an announcement in the coming months.**
 
 [gamelo.co]: http://gamelo.co
 [twitch-api]: https://github.com/justintv/Twitch-API
