@@ -2,7 +2,7 @@
 layout: post
 title:  "A Loco Idea"
 date:   2016-05-10 12:00:00 -0500
-categories: blog streaming twitch youtube gaming service business tools
+categories: blog
 ---
 Back in 2015 I created a brand called Game Loco to go along with a [really snazzy URL][gamelo.co]. After I made a unique and snazzy logo for it, I hit a brick wall. "What in the world will the content be?" I asked myself. And up until last night, I didn't have a clue.
 
