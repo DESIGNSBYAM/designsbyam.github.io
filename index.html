@@ -4,18 +4,46 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Web Log</h1>
+<h1 class="page-heading">Portfolio</h1>
+<a name="portfolio"/>
+  {% for post in site.categories.portfolio %}
+
+      {% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
+
+            {% if foundImage == 0 %}
+                {% assign html = image | split:"/>" | first %}
+                <div class="post-list-portfolio"><a href="{{ post.url }}"><img {{ html }} /></a></div>
+                {% assign foundImage = 1 %}
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+  {% endfor %}
+
+<h1 class="page-heading">Web Log</h1>
 <a name="blog"/>
   <ul class="post-list">
-    {% for post in site.categories.blog %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  {% for post in site.categories.blog %}
+    <li>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+      {% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
+
+            {% if foundImage == 0 %}
+                {% assign html = image | split:"/>" | first %}
+                <a href="{{ post.url }}"><img {{ html }} /></a>
+                {% assign foundImage = 1 %}
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

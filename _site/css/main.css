@@ -315,13 +315,22 @@ iframe {
       padding: 30px 0; } }
 
 .page-heading {
-  font-size: 20px; }
+  font-size: 36px;
+  font-weight: 200;
+  clear: both; }
 
 .post-list {
   margin-left: 0;
   list-style: none; }
   .post-list > li {
     margin-bottom: 30px; }
+
+div.post-list-portfolio {
+  float: left;
+  margin: 0 5px 0 0; }
+  div.post-list-portfolio img {
+    border: 2px solid #fff;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1); }
 
 .post-meta {
   font-size: 14px;
@@ -362,6 +371,11 @@ iframe {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+  .post-content img {
+    display: block;
+    margin: 0 auto; }
+  .post-content p:nth-of-type(1) > img:nth-of-type(1) {
+    display: none; }
 
 /**
  * Syntax highlighting styles
