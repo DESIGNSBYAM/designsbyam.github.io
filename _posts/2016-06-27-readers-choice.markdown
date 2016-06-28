@@ -2,7 +2,7 @@
 layout: post
 title:  "Reader's Choice 2016"
 date:   2016-06-27 12:00:00 -0500
-categories: portfolio
+categories: graphic-design
 ---
 
 ![Featured Image]({{ site.url }}/assets/readerschoice/readerschoice2016-thumb.png)

@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "National Car Ball Association"
+date:   2016-06-28 12:00:00 -0500
+categories: graphic-design
+---
+
+![Featured Image]({{ site.url }}/assets/ncba/Tip-Off_thumb.png)
+
+The large video gaming community around Rocket League needed a central hub for various eSports information. So I created the National Car Ball Association as a joke.
+
+![National Car Ball Association logo]({{ site.url }}/assets/ncba/NCBA-Badge.png)
+
+Along with that came a [stylish website for eSports](http://nationalcarball.com/test/features/). Understand that right now some of the features aren't working (like a list of upcoming events).
+
+And last but not least came a news show about the game. I decided to make the logo look like a sports show.
+
+![The Tip-off]({{ site.url }}/assets/ncba/Tip-Off.png)
+
+
+Because of the look of the logo, we went the direction of a legitimate sports news show. It did pretty well for our first show like it. Here is one of the first episodes:
+
+<iframe width="940" height="530" src="http://www.youtube.com/v/_TFd3jJ6tak?controls=0&rel=0&showinfo=0&VQ=HD1080" frameborder="0" allowfullscreen></iframe>
+
+
+We even have two professional teams under the NCBA name. Here is a small clip of them working their magic:
+
+<iframe width="940" height="530" src="http://www.youtube.com/v/WLMqcE2RWhs?controls=0&rel=0&showinfo=0&VQ=HD1080" frameborder="0" allowfullscreen></iframe>
+
+Feel free to save these awesome wallpapers for a 1920x1080 resolution:
+
+![NCBA Wallpaper - White]({{ site.url }}/assets/ncba/NCBA-Wallpaper-1-white.png)
+
+![NCBA Wallpaper - Neutral]({{ site.url }}/assets/ncba/NCBA-Wallpaper-1-neutral.png)
+
+![NCBA Wallpaper - Navy]({{ site.url }}/assets/ncba/NCBA-Wallpaper-1-navy.png)
+
+![NCBA Wallpaper - Black]({{ site.url }}/assets/ncba/NCBA-Wallpaper-1-black.png)

@@ -2,7 +2,7 @@
 layout: post
 title:  "Hartline Family Auto"
 date:   2016-06-27 12:00:00 -0500
-categories: portfolio
+categories: graphic-design
 ---
 
 ![Featured Image]({{ site.url }}/assets/portfolio/hartlinefamilyauto1_thumb.png)
