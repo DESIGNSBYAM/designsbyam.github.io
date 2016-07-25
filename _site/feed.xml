@@ -6,9 +6,72 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Mon, 25 Jul 2016 10:26:19 -0500</pubDate>
     <lastBuildDate>Mon, 25 Jul 2016 10:26:19 -0500</lastBuildDate>
+=======
+    <pubDate>Tue, 28 Jun 2016 17:41:57 -0500</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2016 17:41:57 -0500</lastBuildDate>
+>>>>>>> origin/master
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>National Car Ball Association</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/ncba/Tip-Off_thumb.png&quot; alt=&quot;Featured Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The large video gaming community around Rocket League needed a central hub for various eSports information. So I created the National Car Ball Association as a joke.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/ncba/NCBA-Badge.png&quot; alt=&quot;National Car Ball Association logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Along with that came a &lt;a href=&quot;http://nationalcarball.com/test/features/&quot;&gt;stylish website for eSports&lt;/a&gt;. Understand that right now some of the features aren’t working (like a list of upcoming events).&lt;/p&gt;
+
+&lt;p&gt;And last but not least came a news show about the game. I decided to make the logo look like a sports show.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/ncba/Tip-Off.png&quot; alt=&quot;The Tip-off&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Because of the look of the logo, we went the direction of a legitimate sports news show. It did pretty well for our first show like it. Here is one of the first episodes:&lt;/p&gt;
+
+&lt;iframe width=&quot;940&quot; height=&quot;530&quot; src=&quot;http://www.youtube.com/v/_TFd3jJ6tak?controls=0&amp;amp;rel=0&amp;amp;showinfo=0&amp;amp;VQ=HD1080&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;We even have two professional teams under the NCBA name. Here is a small clip of them working their magic:&lt;/p&gt;
+
+&lt;iframe width=&quot;940&quot; height=&quot;530&quot; src=&quot;http://www.youtube.com/v/WLMqcE2RWhs?controls=0&amp;amp;rel=0&amp;amp;showinfo=0&amp;amp;VQ=HD1080&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Feel free to save these awesome wallpapers for a 1920x1080 resolution:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/ncba/NCBA-Wallpaper-1-white.png&quot; alt=&quot;NCBA Wallpaper - White&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/ncba/NCBA-Wallpaper-1-neutral.png&quot; alt=&quot;NCBA Wallpaper - Neutral&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/ncba/NCBA-Wallpaper-1-navy.png&quot; alt=&quot;NCBA Wallpaper - Navy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/ncba/NCBA-Wallpaper-1-black.png&quot; alt=&quot;NCBA Wallpaper - Black&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Jun 2016 12:00:00 -0500</pubDate>
+        <link>/graphic-design/2016/06/28/ncba.html</link>
+        <guid isPermaLink="true">/graphic-design/2016/06/28/ncba.html</guid>
+        
+        
+        <category>graphic-design</category>
+        
+      </item>
+    
+      <item>
+        <title>Hartline Family Auto</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/portfolio/hartlinefamilyauto1_thumb.png&quot; alt=&quot;Featured Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hartline Family Auto tasked me with designing a half-page newspaper ad for Texarkana Gazette’s Spotlight. It turned out quite well.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/portfolio/hartlinefamilyauto1.png&quot; alt=&quot;Hartline Family Auto half-page ad for Texarkana Gazette Spotlight&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Jun 2016 12:00:00 -0500</pubDate>
+        <link>/graphic-design/2016/06/27/hartline-family-auto.html</link>
+        <guid isPermaLink="true">/graphic-design/2016/06/27/hartline-family-auto.html</guid>
+        
+        
+        <category>graphic-design</category>
+        
+      </item>
     
       <item>
         <title>Reader&#39;s Choice 2016</title>
@@ -33,28 +96,11 @@
 &lt;p&gt;&lt;img src=&quot;/assets/readerschoice/380682-0626-Fish-Bowl.png&quot; alt=&quot;Reader&#39;s Choice 2016 Fish Bowl ad&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Jun 2016 12:00:00 -0500</pubDate>
-        <link>/portfolio/2016/06/27/readers-choice.html</link>
-        <guid isPermaLink="true">/portfolio/2016/06/27/readers-choice.html</guid>
+        <link>/graphic-design/2016/06/27/readers-choice.html</link>
+        <guid isPermaLink="true">/graphic-design/2016/06/27/readers-choice.html</guid>
         
         
-        <category>portfolio</category>
-        
-      </item>
-    
-      <item>
-        <title>Hartline Family Auto</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/portfolio/hartlinefamilyauto1_thumb.png&quot; alt=&quot;Featured Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Hartline Family Auto tasked me with designing a half-page newspaper ad for Texarkana Gazette’s Spotlight. It turned out quite well.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/portfolio/hartlinefamilyauto1.png&quot; alt=&quot;Hartline Family Auto half-page ad for Texarkana Gazette Spotlight&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 27 Jun 2016 12:00:00 -0500</pubDate>
-        <link>/portfolio/2016/06/27/hartline-family-auto.html</link>
-        <guid isPermaLink="true">/portfolio/2016/06/27/hartline-family-auto.html</guid>
-        
-        
-        <category>portfolio</category>
+        <category>graphic-design</category>
         
       </item>
     
@@ -73,11 +119,11 @@
 &lt;p&gt;&lt;img src=&quot;/assets/portfolio/futrellmarine3.png&quot; alt=&quot;Futrell Marine ads for precision targeting&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Jun 2016 12:00:00 -0500</pubDate>
-        <link>/portfolio/2016/06/27/futrell-marine.html</link>
-        <guid isPermaLink="true">/portfolio/2016/06/27/futrell-marine.html</guid>
+        <link>/graphic-design/2016/06/27/futrell-marine.html</link>
+        <guid isPermaLink="true">/graphic-design/2016/06/27/futrell-marine.html</guid>
         
         
-        <category>portfolio</category>
+        <category>graphic-design</category>
         
       </item>
     
