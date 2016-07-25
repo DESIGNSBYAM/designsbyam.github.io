@@ -298,6 +298,17 @@ div.post-list-portfolio {
             font-size: 22px;
         }
     }
+    h3.resume{
+        margin: -10px 0 -10px 0;
+        color:#286d5b;
+        text-transform: uppercase;
+        font-weight:300;
+        font-size: 36px;
+        @include media-query($on-laptop) {
+            font-size: 32px;
+        }
+    }
+
 
     h4 {
         font-size: 20px;
