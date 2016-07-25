@@ -209,3 +209,17 @@ pre {
 iframe{
     border:none;
 }
+
+.resume ul {
+   list-style: none;
+   margin-left: 0;
+   padding-left: 1em;
+}
+.resume li:before{
+    content: '+ ';
+}
+
+.resume div{
+    border-left: 2px dotted #bbb;
+    padding-left: 15px;
+}

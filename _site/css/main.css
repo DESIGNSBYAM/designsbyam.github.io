@@ -148,6 +148,18 @@ pre {
 iframe {
   border: none; }
 
+.resume ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1em; }
+
+.resume li:before {
+  content: '+ '; }
+
+.resume div {
+  border-left: 2px dotted #bbb;
+  padding-left: 15px; }
+
 /**
  * Site header
  */
@@ -361,19 +373,21 @@ div.post-list-portfolio {
     @media screen and (max-width: 800px) {
       .post-content h2 {
         font-size: 28px; } }
+  .post-content .resume h2 {
+    margin: 10px 0 0 0; }
   .post-content h3 {
     font-size: 26px; }
     @media screen and (max-width: 800px) {
       .post-content h3 {
         font-size: 22px; } }
-  .post-content h3.resume {
+  .post-content .resume h3 {
     margin: -10px 0 -10px 0;
     color: #286d5b;
     text-transform: uppercase;
     font-weight: 300;
     font-size: 36px; }
     @media screen and (max-width: 800px) {
-      .post-content h3.resume {
+      .post-content .resume h3 {
         font-size: 32px; } }
   .post-content h4 {
     font-size: 20px; }
