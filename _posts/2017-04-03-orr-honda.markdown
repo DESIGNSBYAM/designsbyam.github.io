@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Orr Honda"
+date:   2017-04-03 12:00:00 -0500
+categories: graphic-design
+---
+
+![Featured Image]({{ site.url }}/assets/portfolio/orr-honda_thumb.png)
+
+While working at Wehco & Palmer, I was tasked with designing several advertisement campaigns for Orr Honda of Texarkana. Some are stickers, some are full newspaper spreads. Pretty work intensive so I'm very proud of them.
+
+The sticker ads were placed on newspapers and other publications. These weren't as hard to build.
+![Orr Honda Sticker Ad]({{ site.url }}/assets/portfolio/1008-ORR-Honda-Sticky-Note-front.jpg)
+
+I really enjoyed making this energetic sticker ad.
+![Orr Honda Sticker Ad]({{ site.url }}/assets/portfolio/1126-Orr-Honda-Sticky-Note-front.jpg)
+
+This ended up being very popular even though I'm not super fond of it. But it is still a nice clean ad.
+![Orr Honda Full Page Fourth of July Ad]({{ site.url }}/assets/portfolio/373638-0701-Orr-Honda.jpg)
+
+I had roughly 5 hours to make a Christmas ad. Lots of beautiful vectors were made. I love this ad.
+![Orr Honda Full Page Christmas Ad]({{ site.url }}/assets/portfolio/38655-1225-Orr-Honda.jpg)
+
+This took a lot of trial and error to get how I wanted it. The end result was so nice that they made me run it multiple times with different sizes and variations.
+![Orr Honda Full Page Christmas Ad]({{ site.url }}/assets/portfolio/383850-0121-Orr-Honda.jpg)
